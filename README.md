@@ -6,7 +6,10 @@ The application exposes RESTful API endpoints to create, read, update, and delet
 All APIs were tested using Postman and the backend is deployed on a public server (PythonAnywhere).
 
 ---
+## Relevant Screenshots
+https://drive.google.com/drive/folders/1L3HUVlXOgo3R3RG7RURvIyxc5OAT0JmI?usp=sharing
 
+---
 ## Tools & Technologies Used
 - Python
 - Flask
