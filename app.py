@@ -1,6 +1,3 @@
-
-print("THIS IS THE APP.PY THAT IS RUNNING")
-
 from flask import Flask, request, jsonify
 import sqlite3
 
